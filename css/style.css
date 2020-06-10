@@ -1,0 +1,18 @@
+  table,th, td{
+  	 border: 1px solid black;
+     border-collapse: collapse;
+}
+table{
+	width: 100%;
+}
+
+kbd{
+	border: 1px solid #000;
+}
+
+.marg{
+	margin: 20px 23px 27px 19px;
+	background: red;
+	border: 2px solid black;
+	padding: 20px 23px 27px 19px;
+}
